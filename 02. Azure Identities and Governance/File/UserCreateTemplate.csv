@@ -1,0 +1,7 @@
+version:v1.0,,,,,,,,,,,,,,,,
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+Demo User-1,demo.user-1@davidwangazuregmail.onmicrosoft.com,Aa112211!,No,,,,,,,,,,,,,
+Demo User-2,demo.user-2@davidwangazuregmail.onmicrosoft.com,Aa112211!,No,,,,,,,,,,,,,
+Demo User-3,demo.user-3@davidwangazuregmail.onmicrosoft.com,Aa112211!,No,,,,,,,,,,,,,
+Demo User-4,demo.user-4@daveitone.onmicrosoft.com,Aa112211!,No,,,,,,,,,,,,,
+Demo User-5,demo.user-4@daveitone.onmicrosoft.com,Aa112211!,No,,,,,,,,,,,,,
